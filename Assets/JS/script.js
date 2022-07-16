@@ -35,12 +35,12 @@ for (var i = 0; i < 8; i++){
     var textArea = $('<textarea>')
     textArea.addClass('form-control')
     textArea.attr('aria-label', 'With textarea')
-    textArea.addClass("bg-danger")
+    textArea.addClass("present")
 
     inputGroup.append(textArea)
     
     var btn = $('<button>')
-    btn.addClass('btn btn-primary')
+    btn.addClass('btn saveBtn')
     btn.attr('button')
     btn.text('Save')
     
@@ -53,9 +53,9 @@ for (var i = 0; i < 8; i++){
     console.log(currentHour)
 
     if (currentHour < i + 9){
-        textArea.attr("class","form-control bg-success")
+        textArea.attr("class","form-control future")
     } else if (currentHour > i + 9){
-        textArea.attr("class","form-control bg-secondary")
+        textArea.attr("class","form-control past")
     }
 
 };
