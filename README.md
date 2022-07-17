@@ -74,6 +74,7 @@ Use the `BLANK_README.md` to get started.
 * [CSS]
 * [JavaScript]
 * [Moment.js]
+* [BootStrap]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -83,7 +84,7 @@ Use the `BLANK_README.md` to get started.
 
 Lucas Freigenberg - lsfreigenberg@outlook.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/mountaindriver/Work-Scheduler](https://github.com/mountaindriver/Work-Scheduler)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,9 +95,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 These resources helped me greatly and gave me different perspectives on how to complete the project.
 
 * [MDN](https://developer.mozilla.org/en-US/)
-* [Andres Long- Triology Tutor]()
-* [Coding Bootcamp 04/26 Todos list](http://127.0.0.1:5501/04-Web-APIs/01-Activities/26-Stu_Local-Storage-Todos/Solved/index.html) 
-
+* [Sean Brown-Byfield- Triology Tutor]()
+* [Coding Bootcamp 04/26 Stu_Local-Storage]()
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
