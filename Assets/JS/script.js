@@ -73,7 +73,7 @@ for (var i = 0; i < 8; i++){
 
 
 
-// run through and take textevent from storage and 
+// Run through and take textevents from storage and 
 // put them into their corrisponing time slots
 function rendertextEvents(){
     for (var i = 0; i < 8; i++){
